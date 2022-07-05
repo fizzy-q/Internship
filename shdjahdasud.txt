@@ -1,0 +1,50 @@
+<div class="imgicon1"><img src="index-benefit-personal_166x166.png" /></div> 
+<div class="divicon1"> 
+    <h3>Personalized Experience</h3>
+    <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor, sit amet consectetur adipisicing elit. !</p> -->
+</div> 
+
+<div class="imgicon1"><img src="index-benefit-engagement_166x166.png" /></div> 
+<div class="divicon1"> 
+    <h3>improved Engagement</h3>
+    <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p> -->
+</div> 
+
+<div class="imgicon1"><img src="index-benefit-analytics_166x166.png" /></div> 
+<div class="divicon"> 
+    <h3>Actionable Analytics</h3>
+    <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p> -->
+</div> 
+
+
+
+/*
+  .icon{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+  }
+  img{
+      max-width: 100%;
+  }
+  .image{
+      flex-basis: 40%;
+      order: 2;
+  }
+  .icontext{
+      font-size: 20px;
+      padding-left: 20px;
+  }
+*/
+
+
+ <!-- <div class="icons">
+              <div class="image">
+                  <img src="index-benefit-personal_166x166.png" alt="icon">
+              </div>
+              <div class="icontext">
+                  <h3>Personalized Experience</h3>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ad explicabo, magni aperiam nihil quisquam eum in ab harum amet cum aliquid ratione nam dolores natus voluptas, vel optio dolorum maxime, quas ea eligendi repudiandae!</p>
+              </div>
+              
+          </div> -->
